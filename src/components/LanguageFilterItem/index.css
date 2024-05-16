@@ -1,0 +1,32 @@
+.li {
+  color: #1e293b;
+  font-weight: bold;
+  font-size: 16px;
+  margin: 10px;
+  font-family: 'Roboto';
+  padding: 5px;
+  cursor: pointer;
+}
+
+.active {
+  font-weight: bold;
+  font-size: 16px;
+  margin: 10px;
+  font-family: 'Roboto';
+  color: #0284c7;
+  border: 2px solid #0284c7;
+  border-radius: 20px;
+  min-width: 50px;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.btn {
+  background: none;
+  border: none;
+  font-weight: bold;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
